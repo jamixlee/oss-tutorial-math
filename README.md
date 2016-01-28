@@ -2,5 +2,17 @@
 Example project of the oss-tutorial
 
 # How to use
-#1 open
-#2 run
+
+
+
+
+# Known issue
+
+
+
+
+# How to contribute
+
+
+
+# License
