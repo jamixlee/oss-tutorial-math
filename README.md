@@ -2,11 +2,12 @@
 Example project of the oss-tutorial
 
 # How to use
+1. 
+2. 
 
 
 
-
-# Known issue
+# Known issues
 
 
 
