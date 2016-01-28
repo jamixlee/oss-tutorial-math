@@ -11,7 +11,7 @@ java oss-tutorial-math
 # Known issues
 ## Functions
 1. ABS
-* This function takes one integer and make it abstract number
+  * This function takes one integer and make it to be an abstract number
 2. POW
 3. MUL
 4. MAX
