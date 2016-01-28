@@ -5,10 +5,15 @@ Example project of the oss-tutorial
 '" Java
 run
 "'
-
 # How to use
-1. 
-2. 
+-
+1
+|
+1
+-
+2
+|
+-
 
 
 
