@@ -1,4 +1,4 @@
-# OSS-Tutorial-Math
+# OSS-Tutorial-Math Project
 Example project of the oss-tutorial
 
 # How to install
