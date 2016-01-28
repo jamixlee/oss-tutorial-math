@@ -1,5 +1,7 @@
-# oss-tutorial-math
+# OSS-Tutorial-Math
 Example project of the oss-tutorial
+
+# How to install
 
 # How to use
 1. 
