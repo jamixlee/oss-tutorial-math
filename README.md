@@ -2,7 +2,7 @@
 Example project of the oss-tutorial
 
 # How to install
-'"Java
+'" Java
 run
 "'
 
