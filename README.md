@@ -1,3 +1,6 @@
 # oss-tutorial-math
 Example project of the oss-tutorial
-[WEB] http://bi.snu.ac.kr/~cylee
+
+# How to use
+#1 open
+#2 run
